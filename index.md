@@ -14,8 +14,8 @@ The ecosystem includes **Proteus** (LLVM-based JIT compilation) and **Mneme** (r
 
 ## Tutorial and Presentations 
 
-**Tutorial @[CGO 2026](https://2026.cgo.org/)** *Quick guide on internals on both Proteus and Mneme* [slides](/assets/talks/cgo-2026-tutorial.pdf)
-**LLVM Workshop @[CGO 2026](https://2026.cgo.org/)** *A Short Tour of Mneme’s Core Capabilities* [slides](/assets/talks/CGO-MNEME-LLVM-Workshop.pdf)
+- **Tutorial @[CGO 2026](https://2026.cgo.org/)** *Quick guide on internals on both Proteus and Mneme* [slides](/assets/talks/cgo-2026-tutorial.pdf)
+- **LLVM Workshop @[CGO 2026](https://2026.cgo.org/)** *A Short Tour of Mneme’s Core Capabilities* [slides](/assets/talks/CGO-MNEME-LLVM-Workshop.pdf)
 
 ## Related publications
 
