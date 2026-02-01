@@ -3,7 +3,9 @@ layout: home
 title: Olympus-HPC
 ---
 
-A minimal landing page for the **Olympus-HPC** ecosystem.
+Olympus-HPC is an open-source ecosystem for research and development in compiler and runtime systems for HPC and accelerators.
+
+The ecosystem includes **Proteus** (LLVM-based JIT compilation) and **Mneme** (record–replay and performance experimentation).
 
 ## Projects
 
