@@ -7,8 +7,8 @@ A minimal landing page for the **Olympus-HPC** ecosystem.
 
 ## Projects
 
-- **[Mneme](https://olympus-hpc.github.io/Mneme/)** — Record–replay for GPU kernels.
 - **[Proteus](https://olympus-hpc.github.io/proteus/)** — LLVM-based JIT compilation engine.
+- **[Mneme](https://olympus-hpc.github.io/Mneme/)** — Record–replay for GPU kernels.
 
 ## Tutorial and Presentations 
 
