@@ -12,4 +12,4 @@ A minimal landing page for the **Olympus-HPC** ecosystem.
 
 ## Tutorial and Presentations 
 
-- **CGO 2026 Tutorial — ** [slides](/assets/talks/cgo-2026-tutorial.pdf)
+**CGO 2026 Tutorial  ** [slides](/assets/talks/cgo-2026-tutorial.pdf)
